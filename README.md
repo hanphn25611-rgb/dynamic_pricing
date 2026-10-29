@@ -71,23 +71,7 @@ dynamic_pricing/
 │   ├── figures/                                 # All PNG/PDF visualizations
 │   ├── results/                                 # All CSV result files
 │   └── models/                                  # Saved ML models (.pkl)
-│
-├── thesis/
-│   ├── Master_Thesis_Complete_APA.docx          # Complete thesis (57 pages)
-│   ├── 01_Introduction.docx                     # Section 1
-│   ├── 02_Literature_Review.docx                # Section 2
-│   ├── 03_Methodology.docx                      # Section 3
-│   ├── 04_Results.docx                          # Section 4
-│   ├── 05_Discussion.docx                       # Section 5
-│   ├── 06_Conclusion.docx                       # Section 6
-│   ├── 07_References.docx                       # Section 7 (APA 7th)
-│   └── 08_Appendix.docx                         # Section 8
-│
-└── documentation/
-    ├── ANOVA_EXPLANATION.md                     # ANOVA test detailed explanation
-    ├── DATASET_INFO.md                          # Dataset information
-    ├── THESIS_UPDATE_SUMMARY.md                 # Change log
-    └── papers_found.md                          # 19 research papers catalog
+
 ```
 
 ---
