@@ -1,0 +1,5 @@
+Category,Action,Current_Price,Recommended_Price,Expected_Improvement,Reason
+Books,GIẢM GIÁ,$489.02,$300.00,+-36.9%,Nên giảm giá 38.7% để tăng demand và profit -36.9%
+Electronics,TĂNG GIÁ,$503.61,$558.07,+4.4%,Có thể tăng giá 10.8% để tăng profit 4.4%
+Clothing,TĂNG GIÁ,$511.05,$552.54,+2.7%,Có thể tăng giá 8.1% để tăng profit 2.7%
+Home & Kitchen,TĂNG GIÁ,$507.46,$563.59,+4.6%,Có thể tăng giá 11.1% để tăng profit 4.6%

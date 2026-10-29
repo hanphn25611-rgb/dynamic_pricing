@@ -1,0 +1,2 @@
+Test,F_Statistic,df_numerator,df_denominator,p_value,Significant_at_0.05,Elasticity_Range,Min_Elasticity,Max_Elasticity
+ANOVA F-Test,1.7372223073726065,3,2039,0.157299739907533,False,0.02446062121074752,-0.18979919925973532,-0.1653385780489878
