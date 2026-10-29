@@ -3,6 +3,7 @@
 **Master's Thesis in E-Commerce**  
 University of Economics and Law (UEL), Ho Chi Minh City  
 Author: Phan Ho Ngoc Han 
+
 Date: October 2026
 
 ---
